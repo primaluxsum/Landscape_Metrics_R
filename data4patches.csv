@@ -1,0 +1,7 @@
+Type,Patches,Cells,Edges
+EarlyForest,7,62,87
+EarlyGrassland,17,26,79
+EarlyAg,9,12,38
+LateForest,13,41,94
+LateGrassland,18,30,88
+LateAg,18,29,90
