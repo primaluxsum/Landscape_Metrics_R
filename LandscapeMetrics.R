@@ -1,6 +1,6 @@
 library(vegan)
 library(flextable)
-patchdata <- read.csv("C:/Users/marie/Documents/landscape ecology/Landscape Metrics/RScript4Metrics/data4patches.csv")
+patchdata <- read.csv("data4patches.csv")
 #extract data for each type of patch into separate variables
 earlyforest <- patchdata[1, ]
 earlygrassland <- patchdata[2, ]
